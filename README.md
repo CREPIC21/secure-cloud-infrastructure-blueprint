@@ -1,8 +1,6 @@
-# Azure Resource Deployment Project Repository
+# Enterprise-Ready Azure Deployment Framework
 
-This repository contains a collection of PowerShell, Bicep, Azure CLI scripts, Terraform files, and ARM templates that I've been working on while preparing for the AZ-104 Azure Administrator certification. 
-
-As part of my preparation for the AZ-104 Azure Administrator certification, I've created and organized these resources (scripts, templates, and configuration files) and used them in my personal projects to reinforce my understanding of Azure deployment methodologies and automation tools.
+A structured set of Infrastructure as Code (Terraform / Bicep / ARM / PowerShell) and automation scripts demonstrating scalable, secure Azure deployments for web applications and core network services.
 
 ## Contents
 
